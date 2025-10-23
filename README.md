@@ -1,14 +1,13 @@
-<!-- Creative Showcase README for Dama Sri Ram (Sriram) -->
+# Hi there! 👋 
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner for Dama Sri Ram (Sriram) — AI/ML • DSA • System Design — building real systems" width="1200" height="300" style="border-radius:12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
-</div>
+  <img src="./assets/banner.png" alt="Banner for Dama Sri Ram (Sriram) — AI/ML • DSA • System Design — building real systems" width="1200" height="300" style="border-radius:8px;" />
 
-<h1 align="center">
-  <img src="./assets/avatar.png" alt="Sriram" width="80" height="80" style="border-radius:50%; margin-right:12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-  Dama Sri Ram (Sriram)
-  <img alt="wave" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" style="margin-left:8px;" />
-</h1>
+  <h1 style="margin:4px 0">Dama Sri Ram (Sriram)</h1>
+
+  <a href="https://github.com/Sriram2272?tab=repositories">
+    <img src="https://img.shields.io/badge/AI%2FML%20%E2%80%A2%20DSA%20%E2%80%A2%20System%20Design-building%20real%20systems-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+  </a>
 
 <p align="center">
   <a href="https://github.com/Sriram2272?tab=repositories">
@@ -100,27 +99,15 @@
   </p>
 </div>
 
----
-
-## 🏆 Certifications & Achievements
-<div align="center">
-  <!-- Certifications as modern badges -->
+## 🏆 Achievements & Certifications
+<div align="center" style="margin:4px 0">
+  <img src="https://img.shields.io/badge/Microsoft-Campus_Ambassador-107C10?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Campus Ambassador" />
+  <img src="https://img.shields.io/badge/HackXlerate-Finalist-FF6B6B?style=for-the-badge" alt="HackXlerate Finalist" />
+  <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
   <img src="https://img.shields.io/badge/Microsoft-AI--900_Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="AI-900" />
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900_Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-  <img src="https://img.shields.io/badge/Google-Cloud_Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  
-  <!-- Achievement badges -->
-  <p style="margin-top:12px;">
-    <img src="https://img.shields.io/badge/Microsoft-Campus_Ambassador-107C10?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Campus Ambassador" />
-    <img src="https://img.shields.io/badge/HackXlerate-Finalist-FF6B6B?style=for-the-badge" alt="HackXlerate Finalist" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
-  </p>
 </div>
 
-## 💡 How I Work
+## 💡 Skills
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Automation_First-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Automation First" />
   <img src="https://img.shields.io/badge/Strategy-Test_Driven-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Test Driven" />
