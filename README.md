@@ -19,12 +19,12 @@ I'm Dama Sri Ram — a passionate B.Tech '28 student focused on **Generative AI*
 Currently exploring Deep Learning and Cloud Computing
 
 ###  Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Advanced-FF6B6B?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-Advanced-FF6B6B?style=for-the-badge" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-Intermediate-FFB86C?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/DSA-Learning-FFB86C?style=for-the-badge" alt="DSA" />
-</div>
+• Languages: Python, C, C++
+• Web Frameworks & Tools: HTML, CSS, JavaScript, Flask, FastAPI, React, Node.js, Docker, Kubernetes
+• Automation/LLMs: Playwright, LangChain, Ollama, Selenium, Puppeteer
+• Cloud/DevOps: Microsoft Azure, Google Cloud, Oracle Cloud, Git, CI/CD
+• Databases: MySQL, PostgreSQL, SQLAlchemy
+• Libraries: NumPy, pandas, Matplotlib, STL
 
 ###  Tech Stack & Certifications
 <div align="center">
