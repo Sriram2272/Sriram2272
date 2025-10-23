@@ -1,6 +1,13 @@
-<div align="center">
+# Dama Sri Ram
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=%3E+DAMA+SRI+RAM;%3E+B.Tech+'28+%7C+Gen+AI+Enthusiast;%3E+DSA+%26+CP+Learner;%3E+ML+%26+DL+Aspirant)](https://git.io/typing-svg)
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sriram2272&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+# Hey, I'm Dama Sri Ram 👋
+
+## About Me
+I'm a passionate developer focused on **Gen AI** and **Cloud Systems**. I love building AI-powered solutions and exploring cutting-edge technologies!
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/B.Tech-'28-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="B.Tech '28" /></a>
