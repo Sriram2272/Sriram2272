@@ -32,7 +32,7 @@
 ---
 
 ## Highlights
-- Microsoft Campus Ambassador • HackXlerate Finalist • 100-day CodeChef/LeetCode streak • 1450+ DSA problems solved
+- Microsoft Campus Ambassador • HackXlerate Finalist • CodeChef 3★ Rated Programmer
 
 ## 🛠 Tech Stack
 
@@ -76,9 +76,7 @@
   <a href="https://github.com/Sriram2272/weather-forecasting-webapp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram2272&repo=weather-forecasting-webapp&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9" alt="Weather Forecasting Web App" />
   </a>
-  <br/>
-  <img src="./assets/weather-demo.gif" alt="Weather App Demo" width="640" style="border-radius:8px; margin:12px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
-  <br/>
+  <img src="./assets/weather-demo.gif" alt="Weather App Demo" width="640" style="border-radius:8px; margin:8px 0; box-shadow: 0 4px 16px rgba(0,0,0,0.2);" />
   <p><strong>☁️ Weather Forecasting Web App</strong> — Cloud-native forecasting platform</p>
   <p>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -118,8 +116,7 @@
     <img src="https://img.shields.io/badge/HackXlerate-Finalist-FF6B6B?style=for-the-badge" alt="HackXlerate Finalist" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/CodeChef-100_Day_Streak-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Streak" />
-    <img src="https://img.shields.io/badge/LeetCode-1450+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Problems" />
+    <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Rating" />
   </p>
 </div>
 
