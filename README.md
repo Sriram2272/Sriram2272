@@ -1,13 +1,8 @@
 # Hi there! 👋 
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Banner for Dama Sri Ram (Sriram) — AI/ML • DSA • System Design — building real systems" width="1200" height="300" style="border-radius:8px;" />
-
-  <h1 style="margin:4px 0">Dama Sri Ram (Sriram)</h1>
-
-  <a href="https://github.com/Sriram2272?tab=repositories">
-    <img src="https://img.shields.io/badge/AI%2FML%20%E2%80%A2%20DSA%20%E2%80%A2%20System%20Design-building%20real%20systems-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Focus" />
-  </a>
+  <h1 style="margin:8px 0">Dama Sri Ram (Sriram)</h1>
+  <img src="https://img.shields.io/badge/AI%2FML%20%E2%80%A2%20DSA%20%E2%80%A2%20System%20Design-building%20real%20systems-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Focus" />
 
 <p align="center">
   <a href="https://github.com/Sriram2272?tab=repositories">
