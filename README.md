@@ -1,17 +1,19 @@
 <div align="center">
 
-```diff
-@@          AI/ML Systems Architect | Neural Engineer | Cloud Specialist         @@
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=%3E+DAMA+SRI+RAM;%3E+B.Tech+'28+%7C+Gen+AI+Enthusiast;%3E+DSA+%26+CP+Learner;%3E+ML+%26+DL+Aspirant)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=%3E+DAMA+SRI+RAM;%3E+AI%2FML+Systems+Architect;%3E+Neural+Engineer;%3E+Building+the+Future)](https://git.io/typing-svg)
-
-<div style="background: #0f172a; padding: 12px; border-radius: 10px; margin: 8px 0;">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&labelColor=black" alt="Status"/>
-  <img src="https://img.shields.io/badge/AI%20SYSTEMS-OPERATIONAL-00ff00?style=for-the-badge&labelColor=black" alt="Systems"/>
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/B.Tech-'28-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="B.Tech '28" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Azure-2×_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-3×_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HackXLerate-Finalist-00ff00?style=for-the-badge&labelColor=0f172a" alt="HackXLerate" /></a>
 </div>
 
-![Animated Banner](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=75&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=twinkling&text=AI/ML%20%20Engineer)
+<div align="center" style="margin: 8px 0">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</div>
 
 <p align="center">
   <a href="https://github.com/Sriram2272?tab=repositories">
@@ -24,15 +26,19 @@
 </p>
 
 <p align="center">```python
-class AIEngineer:
+class TechEnthusiast:
     def __init__(self):
-        self.name = "Dama Sri Ram"
-        self.role = "AI/ML Systems Architect"
-        self.skills = ["Neural Engineering", "Cloud Systems", "Automation"]
-        self.status = "Building Next-Gen AI Solutions"
-
-    def mission(self):
-        return "Creating intelligent systems that shape the future of technology"
+        self.education = "B.Tech '28"
+        self.interests = ["Generative AI", "DSA & CP", "ML & DL"]
+        self.skills = {
+            "Languages": ["C/C++", "Python", "SQL"],
+            "Cloud": ["Azure", "Google Cloud", "Oracle Cloud"],
+            "Certifications": {
+                "Azure": ["AZ-900", "AI-900"],
+                "Oracle": ["Cloud", "AI", "Data"]
+            }
+        }
+        self.achievements = ["HackXLerate Finalist", "5× Cloud Certified"]
 ```</p>
 
 <p align="center">
