@@ -1,8 +1,17 @@
-# Hi there! 👋 
-
 <div align="center">
-  <h1 style="margin:8px 0">Dama Sri Ram (Sriram)</h1>
-  <img src="https://img.shields.io/badge/AI%2FML%20%E2%80%A2%20DSA%20%E2%80%A2%20System%20Design-building%20real%20systems-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="Focus" />
+
+```diff
+@@          AI/ML Systems Architect | Neural Engineer | Cloud Specialist         @@
+```
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=%3E+DAMA+SRI+RAM;%3E+AI%2FML+Systems+Architect;%3E+Neural+Engineer;%3E+Building+the+Future)](https://git.io/typing-svg)
+
+<div style="background: #0f172a; padding: 12px; border-radius: 10px; margin: 8px 0;">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&labelColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/AI%20SYSTEMS-OPERATIONAL-00ff00?style=for-the-badge&labelColor=black" alt="Systems"/>
+</div>
+
+![Animated Banner](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=75&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=twinkling&text=AI/ML%20%20Engineer)
 
 <p align="center">
   <a href="https://github.com/Sriram2272?tab=repositories">
@@ -14,7 +23,17 @@
 	<img alt="avatar" src="./assets/avatar.png" width="140" height="140" style="border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,0.22)"/>
 </p>
 
-<p align="center">Passionate Computer Science undergrad specializing in Generative AI & Cloud Systems — building automation-first, scalable solutions.</p>
+<p align="center">```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Dama Sri Ram"
+        self.role = "AI/ML Systems Architect"
+        self.skills = ["Neural Engineering", "Cloud Systems", "Automation"]
+        self.status = "Building Next-Gen AI Solutions"
+
+    def mission(self):
+        return "Creating intelligent systems that shape the future of technology"
+```</p>
 
 <p align="center">
 	<a href="mailto:sriramdama417@gmail.com">📧 sriramdama417@gmail.com</a> •
