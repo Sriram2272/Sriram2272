@@ -18,26 +18,27 @@ I'm Dama Sri Ram — a passionate B.Tech '28 student focused on **Generative AI*
  Building automation-first, scalable solutions with a focus on AI/ML!  
 Currently exploring Deep Learning and Cloud Computing
 
-###  Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/PYTHON-ADVANCED-FF6B6B?style=for-the-badge" alt="PYTHON" />
-  <img src="https://img.shields.io/badge/C++-ADVANCED-FF6B6B?style=for-the-badge" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-INTERMEDIATE-50A5B0?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/DSA-LEARNING-FFB86C?style=for-the-badge" alt="DSA" />
-</div>
+### Languages
+  ![Python - Advanced](https://img.shields.io/badge/Python-Advanced-FF6B6B?style=for-the-badge) ![C - Advanced](https://img.shields.io/badge/C-Advanced-FF6B6B?style=for-the-badge) ![C++ - Advanced](https://img.shields.io/badge/C++-Advanced-FF6B6B?style=for-the-badge) ![Java - Learning](https://img.shields.io/badge/Java-Learning-FFB86C?style=for-the-badge)
 
-###  Tech Stack & Certifications
-<div align="center">
-  <img src="https://img.shields.io/badge/Azure-2_Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Oracle-3_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-</div>
+### Web Frameworks & Tools
+  ![HTML - Advanced](https://img.shields.io/badge/HTML-Advanced-FF6B6B?style=for-the-badge) ![CSS - Advanced](https://img.shields.io/badge/CSS-Advanced-FF6B6B?style=for-the-badge) ![JavaScript - Advanced](https://img.shields.io/badge/JavaScript-Advanced-FF6B6B?style=for-the-badge) ![Flask - Advanced](https://img.shields.io/badge/Flask-Advanced-FF6B6B?style=for-the-badge) ![FastAPI - Advanced](https://img.shields.io/badge/FastAPI-Advanced-FF6B6B?style=for-the-badge) ![React - Advanced](https://img.shields.io/badge/React-Advanced-FF6B6B?style=for-the-badge) ![Node.js - Advanced](https://img.shields.io/badge/Node.js-Advanced-FF6B6B?style=for-the-badge) ![Docker - Advanced](https://img.shields.io/badge/Docker-Advanced-FF6B6B?style=for-the-badge) ![Kubernetes - Advanced](https://img.shields.io/badge/Kubernetes-Advanced-FF6B6B?style=for-the-badge)
 
-###  GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriram2272&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram2272&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### Automation / LLMs
+  ![Playwright - Advanced](https://img.shields.io/badge/Playwright-Advanced-FF6B6B?style=for-the-badge) ![LangChain - Advanced](https://img.shields.io/badge/LangChain-Advanced-FF6B6B?style=for-the-badge) ![Ollama - Advanced](https://img.shields.io/badge/Ollama-Advanced-FF6B6B?style=for-the-badge)
+  ![Selenium - Learning](https://img.shields.io/badge/Selenium-Learning-FFB86C?style=for-the-badge) ![Puppeteer - Learning](https://img.shields.io/badge/Puppeteer-Learning-FFB86C?style=for-the-badge)
+
+### Cloud / DevOps
+
+  ![Azure - Advanced](https://img.shields.io/badge/Microsoft_Azure-Advanced-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud - Advanced](https://img.shields.io/badge/Google_Cloud-Advanced-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Oracle Cloud - Intermediate](https://img.shields.io/badge/Oracle_Cloud-Intermediate-50A5B0?style=for-the-badge&logo=oracle&logoColor=white) ![Git - Intermediate](https://img.shields.io/badge/Git-Intermediate-50A5B0?style=for-the-badge&logo=git&logoColor=white) ![CI/CD - Intermediate](https://img.shields.io/badge/CI%2FCD-Intermediate-50A5B0?style=for-the-badge)
+
+### Databases
+  ![MySQL - Intermediate](https://img.shields.io/badge/MySQL-Intermediate-50A5B0?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL - Intermediate](https://img.shields.io/badge/PostgreSQL-Intermediate-50A5B0?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLAlchemy - Intermediate](https://img.shields.io/badge/SQLAlchemy-Intermediate-50A5B0?style=for-the-badge)
+
+### Libraries
+  ![NumPy - Advanced](https://img.shields.io/badge/NumPy-Advanced-FF6B6B?style=for-the-badge) ![pandas - Advanced](https://img.shields.io/badge/pandas-Advanced-FF6B6B?style=for-the-badge) ![Matplotlib - Advanced](https://img.shields.io/badge/Matplotlib-Advanced-FF6B6B?style=for-the-badge) ![STL - Advanced](https://img.shields.io/badge/STL-Advanced-FF6B6B?style=for-the-badge)
+
 
 ###  Achievements
 - ** Microsoft Brand Ambassador at LPU**
