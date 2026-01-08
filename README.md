@@ -99,22 +99,22 @@ const sriram = {
 <table align="center">
 <tr>
 <td width="25%" align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="64" alt="AI Icon"/>
+  🤖
   <br><strong>AI-Powered Solutions</strong>
   <br>Building intelligent systems with LangChain, OpenAI, and custom AI agents
 </td>
 <td width="25%" align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/code.png" width="64" alt="Code Icon"/>
+  💻
   <br><strong>Full-Stack Development</strong>
   <br>Creating scalable web apps with React, Node.js, and modern frameworks
 </td>
 <td width="25%" align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="64" alt="Automation Icon"/>
+  ⚙️
   <br><strong>Automation Expert</strong>
   <br>Designing frameworks that save time and boost productivity
 </td>
 <td width="25%" align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="64" alt="Security Icon"/>
+  🔐
   <br><strong>Security Conscious</strong>
   <br>Implementing best practices and exploring cybersecurity tools
 </td>
@@ -131,11 +131,11 @@ const sriram = {
 
 ### 🧠 AI & Machine Learning
 <p align="center">
-<img src="https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-Building-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-Expert-00D9FF?style=flat-square&logo=automattic&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-Building-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-Expert-00D9FF?style=flat-square" />
 </p>
 
 ### 💻 Development & Frameworks
@@ -145,7 +145,7 @@ const sriram = {
 <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Three.js-Intermediate-000000?style=flat-square&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Beginner-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Beginner-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 ### 🎨 Web Technologies
