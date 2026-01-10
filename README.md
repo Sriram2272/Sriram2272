@@ -64,49 +64,65 @@ passion: AGI & Multi-Agent Intelligence
 
 </div>
 
-### 🧠 AI & Machine Learning
+## 🧠 AI & Machine Learning
 <p align="center">
-<img src="https://img.shields.io/badge/LangChain-Expert-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agents-Building-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-Expert-00D9FF?style=for-the-badge&logo=automattic&logoColor=white" />
-</p>
-
-### 💻 Development
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-Intermediate-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-</p>
-
-### 🎨 Web & Design
-<p align="center">
-<img src="https://img.shields.io/badge/CSS-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/SEO-Advanced-47A248?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub-Intermediate-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Telegram-Telethon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Beginner-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-Building-2F3C7E?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Advanced-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-Building-8E44AD?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Hands--On-0A9396?style=for-the-badge&logo=automattic&logoColor=white" />
 </p>
 
 ---
+
+## 💻 Development
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-Intermediate-111111?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+---
+
+## 🎨 Web & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-Advanced-2ECC71?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Intermediate-24292E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Beginner-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Telegram-Telethon-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Beginner-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
 
 <div align="center">
 
 ## 🏆 Certifications
 
-<p>
-<img src="./assets/badge-ai900.svg" alt="Azure AI-900" height="100" />
-<img src="./assets/badge-az900.svg" alt="Azure AZ-900" height="100" />
-<img src="./assets/badge-gcloud.svg" alt="Google Cloud" height="100" />
-<img src="./assets/badge-oracle.svg" alt="Oracle" height="100" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Oracle-OCI%20AI%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-OCI%20Data%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
 </p>
 
 </div>
@@ -142,49 +158,6 @@ passion: AGI & Multi-Agent Intelligence
 
 <div align="center">
 
-## 🎨 Featured Projects
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-### 🌐 Nexus Voyager
-<img src="./assets/nexus-voyager-demo.svg" width="250" alt="Nexus Voyager Demo" />
-
-**AI-Powered Travel Assistant**
-
-Advanced navigation & recommendations
-
-</td>
-<td width="33%" align="center">
-
-### 🚗 SimuRide
-<img src="./assets/simuride-demo.gif" width="250" alt="SimuRide Demo" />
-
-**Ride Simulation Platform**
-
-Real-time simulation engine
-
-</td>
-<td width="33%" align="center">
-
-### ☁️ Weather AI
-<img src="./assets/weather-demo.gif" width="250" alt="Weather Demo" />
-
-**Smart Weather Predictor**
-
-ML-based forecasting system
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 🌐 Connect With Me
 
 <p>
@@ -198,20 +171,6 @@ ML-based forecasting system
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sriram2272/Sriram2272/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriram2272/Sriram2272/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sriram2272/Sriram2272/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
