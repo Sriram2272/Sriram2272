@@ -64,6 +64,14 @@ infra       ──  Docker · Azure · GitHub Actions · Linux
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram2272&layout=compact&hide_border=true&bg_color=05080F&title_color=00E5FF&text_color=8A97AB&langs_count=6" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram2272&hide_border=true&background=05080F&stroke=1B2534&ring=00E5FF&fire=7C4DFF&currStreakNum=E9EEF6&currStreakLabel=00E5FF&sideNums=E9EEF6&sideLabels=8A97AB&dates=5B6B85" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram2272&bg_color=05080F&color=8A97AB&title_color=00E5FF&line=00E5FF&point=7C4DFF&area=true&area_color=00E5FF&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</p>
+
 ```text
 open source  ──  15+ merged PRs in production codebases
 algorithms   ──  1,450+ problems · LeetCode / CodeChef
