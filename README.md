@@ -1,54 +1,78 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="Dama Sri Ram — AI Systems Engineer"/>
 
-# Dama Sri Ram
+<p align="center">
+  <a href="https://sriramdama.in"><img src="https://img.shields.io/badge/PORTFOLIO-05080F?style=flat-square&logo=firefoxbrowser&logoColor=00E5FF" height="26"/></a>&nbsp;
+  <a href="https://linkedin.com/in/dama-sriram"><img src="https://img.shields.io/badge/LINKEDIN-05080F?style=flat-square&logo=linkedin&logoColor=00E5FF" height="26"/></a>&nbsp;
+  <a href="mailto:sriramdama417@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05080F?style=flat-square&logo=gmail&logoColor=00E5FF" height="26"/></a>&nbsp;
+  <a href="https://www.codechef.com/users/sriram2272"><img src="https://img.shields.io/badge/CODECHEF-05080F?style=flat-square&logo=codechef&logoColor=00E5FF" height="26"/></a>
+</p>
 
-**AI Systems Engineer** — retrieval systems, autonomous agents, backend infrastructure
+```console
+$ whoami
+> AI systems engineer. I build retrieval pipelines, autonomous agents,
+> and the backend infrastructure that keeps them fast at production scale.
 
-[sriramdama.in](https://sriramdama.in) · [LinkedIn](https://linkedin.com/in/dama-sriram) · [Email](mailto:sriramdama417@gmail.com) · [CodeChef](https://www.codechef.com/users/sriram2272)
+$ status --current
+> Focused on RAG evaluation & agentic browser automation · CSE undergrad
+```
 
-</div>
+<img src="assets/divider.svg" width="100%"/>
 
-<br/>
+## `▸` Selected Work
 
-I build production AI systems — retrieval pipelines, browser agents, and the backend infrastructure that keeps them fast and reliable. Computer Science undergraduate, currently focused on RAG evaluation and agentic automation.
+#### GHOSTCUT — Forensic Claim Verification
+<sub>**2ND PLACE · IIT ROORKEE E-SUMMIT 2026** — 550+ teams</sub>
 
-<br/>
+RAG + NLI engine that validates claims against 10,000+ document chunks and returns evidence-backed verdicts with a trust score, served through a real-time React dashboard.
 
-## Selected Work
+`91% NLI accuracy` · `+38% retrieval quality` · `<200ms latency` · `10K+ chunks`
+<sub>Python · LangChain · SBERT · RoBERTa · React · PostgreSQL</sub>
 
-**GHOSTCUT — forensic claim verification** &nbsp;·&nbsp; *2nd place, IIT Roorkee E-Summit 2026*
-RAG + NLI system that validates claims against 10,000+ document chunks and returns evidence-backed verdicts with a trust score. Hybrid TF-IDF + SBERT retrieval improved ranking quality by 38%; RoBERTa-based entailment reaches 91% accuracy, served through a React dashboard at sub-200ms latency.
-<sub>Python · LangChain · React · TypeScript · PostgreSQL / Supabase</sub>
+#### Web Navigator — Autonomous Browser Agent
+<sub>**SELECTED · T-HUB HYDERABAD INCUBATION** — top 1% of 1,000+ teams</sub>
 
-**Web Navigator — autonomous browser agent** &nbsp;·&nbsp; *Selected for T-Hub Hyderabad incubation*
-Agent that executes multi-step workflows across 100+ pages per session. Concurrent Playwright pipelines cut execution time from 55 to 7 minutes, extracting 50,000+ records at 95% accuracy with LLM + rule-based parsing.
-<sub>Python · Playwright · LangChain</sub>
+Agent that executes multi-step workflows across 100+ pages per session; concurrent Playwright pipelines cut execution time from 55 to 7 minutes with LLM + rule-based extraction.
 
-**Retrieval Integrity Auditor**
-Evaluation framework for RAG pipelines — coverage scoring and top-k analysis across 1,000+ queries surfaced 30–45% missing evidence and cut irrelevant retrieval noise by 28%, with explainable diagnostics for debugging.
+`87% faster execution` · `50K+ records` · `95% extraction accuracy`
+<sub>Python · Playwright · LangChain · AsyncIO</sub>
+
+#### Retrieval Integrity Auditor
+<sub>**RAG EVALUATION FRAMEWORK**</sub>
+
+Coverage scoring and top-k analysis across 1,000+ queries — surfaces missing evidence (30–45% in audited pipelines) and cuts irrelevant retrieval noise by 28%, with explainable diagnostics.
+
+`1K+ queries audited` · `−28% retrieval noise` · `+60% debug speed`
 <sub>Python · FAISS · OpenAI · Streamlit</sub>
 
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
-## Stack
+## `▸` Stack
 
-**Languages** — Python, TypeScript, C++, JavaScript
-**AI / ML** — LangChain, SBERT, RoBERTa, FAISS, Pinecone, PyTorch
-**Backend** — FastAPI, Flask, Node.js, PostgreSQL, Supabase
-**Infrastructure** — Docker, Azure, GitHub Actions, Linux
+```text
+languages   ──  Python · TypeScript · C++ · JavaScript
+ai / ml     ──  LangChain · SBERT · RoBERTa · FAISS · Pinecone · PyTorch
+backend     ──  FastAPI · Flask · Node.js · PostgreSQL · Supabase
+infra       ──  Docker · Azure · GitHub Actions · Linux
+```
 
-<br/>
+<img src="assets/divider.svg" width="100%"/>
 
-## Background
+## `▸` Metrics
 
-- Microsoft Learn Student Ambassador — mentored 200+ students
-- Certified: Microsoft AZ-900 / AI-900 / DP-900 · Oracle OCI AI, Data & Cloud Foundations · Google Cloud Foundations
-- 1,450+ algorithmic problems solved across LeetCode and CodeChef
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriram2272&show_icons=true&hide_border=true&bg_color=05080F&title_color=00E5FF&icon_color=7C4DFF&text_color=8A97AB&ring_color=00E5FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram2272&layout=compact&hide_border=true&bg_color=05080F&title_color=00E5FF&text_color=8A97AB&langs_count=6" height="165"/>
+</p>
 
-<br/>
+```text
+open source  ──  15+ merged PRs in production codebases
+algorithms   ──  1,450+ problems · LeetCode / CodeChef
+community    ──  Microsoft Learn Student Ambassador · 200+ students mentored
+certified    ──  Microsoft AZ-900 / AI-900 / DP-900 · Oracle OCI · Google Cloud
+```
 
----
+<img src="assets/divider.svg" width="100%"/>
 
-<div align="center">
-<sub>Open to backend / AI engineering internships — Summer 2026</sub>
-</div>
+<p align="center">
+  <sub><code>open to backend / AI engineering internships — summer 2026</code></sub>
+</p>
