@@ -80,6 +80,7 @@ community    ──  Microsoft Learn Student Ambassador · 200+ students mentore
 certified    ──  Microsoft AZ-900 / AI-900 / DP-900 · Oracle OCI · Google Cloud
 ```
 
+
 <img src="assets/divider.svg" width="100%"/>
 
 <p align="center">
