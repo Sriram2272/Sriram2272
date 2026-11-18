@@ -1,0 +1,29 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#21262D"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="220" rx="16" fill="#0D1117"/>
+  <rect width="1000" height="220" rx="16" fill="url(#dots)"/>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="15.5" stroke="#30363D"/>
+
+  <text x="64" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3" fill="#7D8590">HI, I'M</text>
+  <text x="62" y="124" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="50" letter-spacing="-1" fill="#E6EDF3">Dama Sri Ram</text>
+  <rect x="64" y="142" width="72" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="178" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9DA7B3">AI systems engineer — retrieval, agents &amp; backend infrastructure</text>
+
+  <g transform="translate(760 62)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <rect width="176" height="96" rx="10" fill="#161B22" stroke="#30363D"/>
+    <circle cx="20" cy="22" r="4" fill="#2DD4BF">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="32" y="26" fill="#7D8590">building</text>
+    <text x="16" y="54" fill="#E6EDF3">rag · agents</text>
+    <text x="16" y="76" fill="#E6EDF3">python · ts</text>
+  </g>
+</svg>
